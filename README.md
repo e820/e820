@@ -1,3 +1,4 @@
-### Hi, I'm Laurin.
+### Hi. I'm Laurin.
 
-I'm a comp-sci student currently interested system development & compiler technology.
+I'm a comp-sci student currently interested in system development & compiler technology.
+Primarily working on IA32 & ARM, including software platforms such as NT & XNU.
