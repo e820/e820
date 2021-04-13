@@ -2,7 +2,7 @@
 
 <img align="right" src="https://thumbs.gfycat.com/AmpleMajesticAntelopegroundsquirrel-small.gif">
 
-Currently working with IA32 & ARM, including software platforms such as Linux & XNU.
-PowerPC has a special place in my heart.
+I enjoy breaking the kind of stuff I build. Used to work with PowerPC but I'm
+currently occupied with x86 & arm projects.
 
 Reach me at e820@nullpt.rs
