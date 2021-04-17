@@ -4,5 +4,3 @@
 
 I enjoy breaking the kind of stuff I build. Used to work with PowerPC but I'm
 currently occupied with x86 & arm projects.
-
-Reach me at e820@nullpt.rs
