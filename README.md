@@ -1,4 +1,4 @@
-### Hi. I'm Laurin.
+### Hi.
 
 <img align="right" src="https://64.media.tumblr.com/b7d15d80b97839eb23dc73cc71592078/tumblr_mx54tyaUm01scncwdo1_500.gifv">
 
